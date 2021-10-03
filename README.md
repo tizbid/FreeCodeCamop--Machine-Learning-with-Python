@@ -1,4 +1,4 @@
-#### FreeCodeCamop--Machine-Learning-with-Python Certification course
+#### FreeCodeCamp--Machine-Learning-with-Python Certification course
 
 ###course highlights:
 * Neural Networks
