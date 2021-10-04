@@ -4,7 +4,8 @@
 * Neural Networks
 * TensorFlow-Keras
 * Recurrrent NeuralNets
+* projects
 * etc
 
 
-view cource: [here](https://www.freecodecamp.org/learn/machine-learning-with-python/#machine-learning-with-python-projects)
+view course: [here](https://www.freecodecamp.org/learn/machine-learning-with-python/#machine-learning-with-python-projects)
